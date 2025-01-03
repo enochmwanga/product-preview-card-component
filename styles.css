@@ -28,6 +28,8 @@
   }
   .product-info-container {
     padding-inline: var(--padding-in-st);
+    width: 16em;
+    overflow: hidden;
     }
   .product-info-container p:first-child {
     text-transform: uppercase;
